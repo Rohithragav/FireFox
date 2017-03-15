@@ -1,0 +1,25 @@
+html, body {
+  width: 200px;
+  background-color: #c4880f;
+}
+
+#d{
+	color: white;
+	width: 150px;
+	height: 30px;
+	border-width: 0px;
+	background-color: #f9a804;
+	border-radius: 25px; 
+}
+.beast {
+  margin: 3% auto;
+  padding: 4px;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #E5F2F2;
+  cursor: pointer;
+}
+
+.beast:hover {
+  background-color: #CFF2F2;
+}
